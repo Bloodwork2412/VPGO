@@ -1,0 +1,45 @@
+<resources>
+
+    <style name="doodleLight" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorEdgeTop">@color/edgeGreen</item>
+        <item name="colorEdgeBottom">@color/edgeBlue</item>
+        <item name="colorEdgeP2Top">@color/edgeGreen</item>
+        <item name="colorEdgeBack">@color/darkBlue</item>
+        <item name="colorAccentTop">@color/diffGreen</item>
+        <item name="colorAccentBottom">@color/diffBlue</item>
+        <item name="onEdgeTop">@color/gray</item>
+        <item name="onEdgeBottom">@color/lightGray</item>
+        <item name="onAccentTop">@color/gray</item>
+        <item name="onAccentBottom">@color/tableGray</item>
+        <item name="colorMode">@color/gray</item>
+        <item name="colorErrorX">@color/errorRed</item>
+        <item name="kursButton">@color/gray</item>
+
+        <item name="colorControlNormalX">@color/pastel</item>
+        <item name="colorControlActivatedX">@color/gray</item>
+    </style>
+
+    <style name="doodleDark" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorEdgeTop">@color/darkerLightGreen</item>
+        <item name="colorEdgeBottom">@color/darkerDarkGreen</item>
+        <item name="colorEdgeP2Top">@color/gray</item>
+        <item name="colorEdgeBack">@color/gray</item>
+        <item name="colorAccentTop">@color/gray</item>
+        <item name="colorAccentBottom">@color/diffBlue</item>
+        <item name="onEdgeTop">@color/gray</item>
+        <item name="onEdgeBottom">@color/darkerFontWhite</item>
+        <item name="onAccentTop">@color/gray</item>
+        <item name="onAccentBottom">@color/gray</item>
+        <item name="colorMode">@color/darkerFontWhite</item>
+        <item name="colorErrorX">@color/errorRed</item>
+        <item name="kursButton">@color/darkerLightGreen</item>
+
+        <item name="colorControlNormalX">@color/pastel</item>
+        <item name="colorControlActivatedX">@color/gray</item>
+    </style>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VP-GO</string>
+    <string name="p1KurseAendern">Kurse ändern</string>
+    <string name="p1NeuLaden">Neu laden</string>
+    <string name="p1Art">Art</string>
+    <string name="p1Stunde">Std.</string>
+    <string name="p1Fach">Fach</string>
+    <string name="p1Raum">"Raum"</string>
+    <string name="p1Nachrichten">Heute gibt es keine Nachrichten.</string>
+    <string name="p1TagDavor">Tag&#10;davor</string>
+    <string name="p1TagDanach">Tag&#10;danach</string>
+    <string name="p2Header">Kurse Ändern</string>
+    <string name="p2KlasseText">Klasse:</string>
+    <string name="p2Klasse">z.B. 09A, EF, Q1</string>
+    <string name="p2KursText">Kurs:</string>
+    <string name="p2Kurs1">---</string>
+    <string name="p2KursHinzufuegen">Kurs hinzufügen</string>
+    <string name="p2Zurueck">Zurück</string>
+    <string name="p1KeinEntfall">- Heute entfallen keine Stunden -</string>
+    <string name="p1Vertreter">Lehrer</string>
+    <string name="p2AlleKurseText">Lehrer</string>
+    <string name="p2Kurs">---</string>
+    <string name="p1Bemerkung">---</string>
+    <string name="p2KlasseSave">speichern</string>
+</resources>
